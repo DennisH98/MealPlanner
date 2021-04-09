@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Daily Dishes</string>
+    <string name="textTitle">Daily Dishes</string>
+    <string name="btnLog">Login</string>
+    <string name="hintPass">Password</string>
+    <string name="hintUser">Username</string>
+    <string name="textSignin">Have an account already? Sign in!</string>
+    <string name="btnSign">Sign Up</string>
+    <string name="btnView">View Schedule</string>
+    <string name="textBreak">Breakfast</string>
+    <string name="textMealLunch">Lunch</string>
+    <string name="textMealDinner">Dinner</string>
+    <string name="textChoose">Choose a Meal Time</string>
+    <string name="viewBreakRec">View Recipes for Breakfast</string>
+    <string name="textViewRecL">View Recipes for Lunch</string>
+    <string name="textViewRecD">View Recipes for Dinner</string>
+    <string name="hintConfirm">Confirm Password</string>
+    <string name="btnCreateAcc">Create Account</string>
+    <string name="textReg">Sign Up</string>
+    <string name="textInfo">Please fill in the required fields to create account</string>
+    <string name="txtPickMeal">Pick a Meal From the List</string>
+    <string name="textAdd">Add to Schedule</string>
+    <string name="textBack">Back</string>
+</resources>
